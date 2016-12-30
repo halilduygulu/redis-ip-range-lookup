@@ -1,0 +1,21 @@
+{
+  "name": "redis-ip-range-lookup",
+  "version": "0.1.0",
+  "description": "IP range to some-metadata lookup based on IP integer value ranges using Sorted Set data type of Redis.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/halilduygulu/redis-ip-range-lookup/"
+  },
+  "keywords": [
+    "IP range",
+    "redis",
+    "sorted",
+    "set"
+  ],
+  "author": "Halil Duygulu",
+  "license": "MIT",
+  "dependencies": {
+    "redis": "~0.12.1"
+  }
+}
